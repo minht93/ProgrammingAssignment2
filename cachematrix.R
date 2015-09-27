@@ -21,7 +21,7 @@ makeCacheMatrix <- function(x = matrix())
 }
 
 
-## The function belows calculates inverse of your matrix input
+## The function below calculates inverse of your matrix input
 ## or retrieve an inverse that's already cache and returns the matrix inverse
 
 cacheSolve <- function(x, ...) 
